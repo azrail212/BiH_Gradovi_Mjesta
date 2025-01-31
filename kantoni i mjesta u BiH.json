@@ -61,6 +61,42 @@
         { "name": "Novi Travnik", "code": "97" },
         { "name": "Travnik", "code": "36" },
         { "name": "Vitez", "code": "40" }
+      ],
+      "Hercegovačko-neretvanski kanton": [
+        { "name": "Čapljina", "code": "48" },
+        { "name": "Čitluk", "code": "43" },
+        { "name": "Jablanica", "code": "18" },
+        { "name": "Konjic", "code": "22" },
+        { "name": "Mostar", "code": "26" },
+        { "name": "Neum", "code": "27" },
+        { "name": "Prozor", "code": "99" },
+        { "name": "Ravno", "code": "31" },
+        { "name": "Stolac", "code": "101" }
+      ],
+      "Zapadnohercegovački kanton": [
+        { "name": "Grude", "code": "16" },
+        { "name": "Ljubuški", "code": "95" },
+        { "name": "Posušje", "code": "30" },
+        { "name": "Široki Brijeg", "code": "136" }
+      ],
+      "Kanton Sarajevo": [
+        { "name": "Hadžići", "code": "90" },
+        { "name": "Ilidža", "code": "80" },
+        { "name": "Ilijaš", "code": "17" },
+        { "name": "Sarajevo - Centar", "code": "133" },
+        { "name": "Sarajevo - Novi Grad", "code": "132" },
+        { "name": "Sarajevo - Novo Sarajevo", "code": "131" },
+        { "name": "Sarajevo - Stari Grad", "code": "130" },
+        { "name": "Trnovo", "code": "139" },
+        { "name": "Vogošća", "code": "105" }
+      ],
+      "Kanton 10": [
+        { "name": "Bosansko Grahovo", "code": "5" },
+        { "name": "Drvar", "code": "87" },
+        { "name": "Glamoč", "code": "13" },
+        { "name": "Kupres", "code": "23" },
+        { "name": "Livno", "code": "24" },
+        { "name": "Tomislavgrad", "code": "102" }
       ]
     },
     "Republika Srpska": {
